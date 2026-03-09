@@ -14,7 +14,7 @@ Arabic empathetic conversations dataset.
 Improved emotional alignment and supportive tone in Arabic responses.
 
 ## 🔹 Model
-[https://huggingface.co/Lokatsu/gemma3-arabic-empathy](https://huggingface.co/Lokatsu/gemma-3-Arabic-Empathy)
+[https://huggingface.co/Abdullah-Baqais/gemma3-arabic-empathy](https://huggingface.co/Lokatsu/gemma-3-Arabic-Empathy)
 
 ## 🔹 GGUF Model
 Available here:
