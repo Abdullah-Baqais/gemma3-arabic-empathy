@@ -18,7 +18,7 @@ Improved emotional alignment and supportive tone in Arabic responses.
 
 ## 🔹 GGUF Model
 Available here:
-https://huggingface.co/Lokatsu/gemma3-arabic-empathy-gguf
+https://huggingface.co/Abdullah-Baqais/gemma3-arabic-empathy-gguf
 
 ## 🔹 Training
 ```bash
